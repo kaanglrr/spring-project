@@ -1,7 +1,7 @@
 ﻿# Todo List App
 
 ---
-###Technology stack
+### Technology stack
 - Maven
 - Java 11
 - Spring Boot 
